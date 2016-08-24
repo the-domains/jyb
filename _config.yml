@@ -1,14 +1,14 @@
-layout_spectrum: 0.6361715127713978
-typography_spectrum: 0.14358498365618289
+layout_spectrum: 0.09217837080359459
+typography_spectrum: 0.9985695271752775
 color:
-  brandStrength: 0.7411592970602214
-  lightness: 0.9722302029840648
-  saturation: 0.49283559434115887
-  rhythmicContrast: 0.9629709313157946
+  brandStrength: 0.164457579376176
+  lightness: 0.19950266648083925
+  saturation: 0.9113992603961378
+  rhythmicContrast: 0.456457631662488
   brandColors:
-    - '#000000'
-    - '#C7C6A8'
-    - '#365E1F'
-    - '#FAF5CF'
-    - '#A69D95'
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 name: JYB

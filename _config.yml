@@ -12,3 +12,7 @@ color:
     - '#4BB5C1'
     - '#7FC6BC'
 name: JYB
+navigation:
+  - name: My job
+    url: 'http://jyb.fr'
+    type: external
